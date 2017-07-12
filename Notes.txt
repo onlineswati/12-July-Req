@@ -1,0 +1,17 @@
+1. Tables  --- Data Available
+2. Views   --- Data Not Available
+3.indexes  --- Data Available
+4.Triggers  ---Data Available
+5.Constraints  ---Data Available
+6.Materialized views ---Data Not Available
+7.Materialized view logs ---Data Not Available
+8.Types  ---Data Available
+9.Sequences  ---Data Available
+10.Synonyms  ---Data Available
+11.Databse links  ---Data Available
+12.Queues  ---Data Not Available
+13.Queue tables  ---Data Not Available
+14.Package Spec  ---Data Available
+15.Package Body  ---Data Available
+16.Procedures   ---Data Available
+17.Functions    ---Data Available
